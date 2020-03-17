@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main4() {
 	var x = 25
 
 	if x%5 == 0 {
