@@ -33,7 +33,7 @@ func getStockPriceChange(prevPrice, currentPrice float64) (change, percentChange
 	return
 }
 
-func main() {
+func main5() {
 
 	sayHello()
 	x, y := 5.75, 13.44
