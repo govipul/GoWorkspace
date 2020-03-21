@@ -9,7 +9,7 @@ import (
 	"rsc.io/quote"
 )
 
-func main() {
+func main6() {
 
 	fmt.Println(numbers.IsPrime(19))
 
