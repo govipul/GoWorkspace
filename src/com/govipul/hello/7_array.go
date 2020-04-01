@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main7() {
 	var a [10]int64
 	fmt.Println(a)
 
