@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main8() {
 	var s = []int{1, 2, 3, 4, 5, 6, 7, 8, 9}
 	t := []int{2, 4, 8, 16, 32, 64}
 	fmt.Println("s = ", s)

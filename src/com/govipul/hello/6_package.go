@@ -5,8 +5,7 @@ import (
 	"com/govipul/hello/strings"
 	"com/govipul/hello/strings/greetings"
 	"fmt"
-
-	"rsc.io/quote"
+	//"rsc.io/quote"
 )
 
 func main6() {
@@ -17,5 +16,5 @@ func main6() {
 
 	fmt.Println(greetings.WelcomeText)
 
-	fmt.Println(quote.Go())
+	//fmt.Println(quote.Go())
 }
