@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main9() {
 
 	var m = make(map[string]int)
 	//Or can be initialized using curly braces
