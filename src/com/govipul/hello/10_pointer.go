@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main10() {
 	var x = 100
 	var p *int = &x
 	fmt.Println(*p)
